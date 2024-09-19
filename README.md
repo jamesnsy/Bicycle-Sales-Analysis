@@ -23,10 +23,12 @@ The following steps to generate the dataset is as follows:
 - Refer to the SQL file for the query process.
   
 ## Summary of Insights:
-- There are a total of $8,578,989 revenue generated, 7078 bicycles sold, 1615 orders and 1444 customers.
-- Revenue was the highest in 2017, 2016 followed by 2018.
-- Bicycle shops in New York made the most profit, followed by California and Texas.
-- 
+- There are a total of **$8,578,989** revenue generated, **7078** bicycles sold, **1615** orders and **1444** customers.
+- Revenue was the highest in **2017**, **2016** followed by **2018**.
+- Bicycle shops in **New York** made the most profit, followed by **California** and **Texas**.
+- Baldwin Bikes generated the highest amount of revenue (**67.91%**) among the three stores.
+- Trek brand generated the highest amount of revenue (**59.79%**) among other brands.
+- **Marcelene Boyer**, **Venita Daniel** and **Genna Serrano** are the top 3 sales representative based on the amount of revenue that they helped to generate.
 
 ## Recommendations:
 
