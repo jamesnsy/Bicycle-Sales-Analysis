@@ -25,12 +25,26 @@ The following steps to generate the dataset is as follows:
 ## Summary of Insights:
 - A total of **$8,578,989** in revenue was generated, with **7078** bicycles sold, **1615** orders, and **1444** customers from 2016 to 2018.
 - Overall, there was a slight decrease in revenue from 2016 to 2018, with the highest revenue in **2017** and the lowest in **2018**.
+
+![image](https://github.com/user-attachments/assets/2bddbae8-e18e-4a6c-b65d-f7388366ced4)
+
 - Revenue showed a decreasing trend over the 12 months. It peaked in **April ($1,350,509)**, followed by a sharp decline in **May ($526,456)**. Revenue fluctuated from June onwards until December.
+
+![image](https://github.com/user-attachments/assets/9c6846be-a650-4572-8028-c0cfeb1b1b2f)
+
 - Baldwin Bikes in **New York** generated the highest revenue of **$5,826,242**, followed by Santa Cruz Bikes in **California ($1,790,146)** and Rowlett Bikes in **Texas ($962,601)**.
+
+![image](https://github.com/user-attachments/assets/b3be7bad-f2f3-4374-a2f5-8b4bfe8e7fb1)
+
 - The Trek brand generated the highest percentage of revenue **(59.79%)** among other brands.
 - Mountain bikes were the most popular choice, generating the highest revenue of **$3,030,776** (about 35% of total revenue from 2016 to 2018).
-- Top 10 customers are Pamelia Newman, Abby Gamble, Sharyn Hopkins, Lyndsey Bean, Emmitt Sanchez, Melanie Hayes, Debra Burks, Elinore Aguilar, Corrina Sawyer and Shena Carter. 
+
+![image](https://github.com/user-attachments/assets/1f4a3110-778d-4c66-bd62-b9e7d7f63b78)
+
+- Top 10 customers are Pamelia Newman, Abby Gamble, Sharyn Hopkins, Lyndsey Bean, Emmitt Sanchez, Melanie Hayes, Debra Burks, Elinore Aguilar, Corrina Sawyer and Shena Carter.
 - **Marcelene Boyer**, **Venita Daniel** and **Genna Serrano** are the top 3 sales representatives based on the amount of revenue they helped generate.
+
+![image](https://github.com/user-attachments/assets/b9250dd5-1573-44a4-be8f-48fd5c866aa3)
 
 ## Recommendations / Next Steps:
 - Investigate the root cause behind the drastic revenue decrease from April to May 2018 as a similar trends occurred in all 3 shops located in different states.
